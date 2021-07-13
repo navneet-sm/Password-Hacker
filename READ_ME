@@ -5,7 +5,7 @@ It consists of 5 stages.This piece of code is the final product.
 
 DESCRIPTION
 
-Your program has successfullyou've been spotted: the admin noticed your first failed attempts, found the vulnerability and made a patch. You should overcome this patch and hack the system again. It’s not easy being a hacker!
+Your program has successfully. You've been spotted: the admin noticed your first failed attempts, found the vulnerability and made a patch. You should overcome this patch and hack the system again. It’s not easy being a hacker!
 
 The admin has improved the server: the program now catches the exception and sends a simple ‘wrong password’ message to the client even when the real password starts with current symbols.
 
